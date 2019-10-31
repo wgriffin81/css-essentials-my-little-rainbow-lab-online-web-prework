@@ -16,24 +16,26 @@ div {
   border-top-color: #f00;
 }
 
-#red {
-  border-top-color: #f00;
+#yellow {
+  border-top-color: #ff0;
 }
 
-#red {
-  border-top-color: #f00;
+#orange {
+  border-top-color: #ffa500;
 }
 
-#red {
-  border-top-color: #f00;
+#green {
+  border-top-color: #00bc3f;
 }
 
-#red {
-  border-top-color: #f00;
+#blue {
+  border-top-color: #06f;
 }
 
-#red {
-  border-top-color: #f00;
+#indigo {
+  border-top-color: #8a2be2;
 }
 
-
+#violet {
+  border-top-color: #d300c9;
+}
